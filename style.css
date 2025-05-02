@@ -1,11 +1,11 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Outfit:wght@100..900&display=swap"); */
 @font-face {
   font-family: "FigTree ExtraBold";
-  src: url("/assets/fonts/static/Figtree-ExtraBold.ttf");
+  src: url("./assets/fonts/static/Figtree-ExtraBold.ttf");
 }
 @font-face {
   font-family: "Figtree";
-  src: url("/assets/fonts/static/Figtree-Medium.ttf");
+  src: url("./assets/fonts/static/Figtree-Medium.ttf");
 }
 * {
   margin: 0;
